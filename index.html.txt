@@ -1,0 +1,7 @@
+HTML
+
+<DOCTYPE html>
+<html>
+<head>
+    <title>Lucy  |Social Media Manager</title
+</head>
